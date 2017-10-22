@@ -1,0 +1,2 @@
+# solid-mida
+Bluetooth
